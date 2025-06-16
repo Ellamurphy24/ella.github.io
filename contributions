@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politician Contributions | Ella's Resistance</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #f0f0f0;
+      font-family: monospace;
+      padding: 2rem;
+    }
+    h1 {
+      color: #00ffcc;
+      text-shadow: 0 0 5px #00ffcc;
+    }
+    h2 {
+      color: #ff4444;
+      border-bottom: 1px solid #444;
+      padding-bottom: 0.3rem;
+      margin-top: 2rem;
+    }
+    .profile {
+      margin-bottom: 2rem;
+    }
+    .name {
+      font-weight: bold;
+      color: #ff4444;
+    }
+    .details {
+      margin-left: 1rem;
+    }
+    a {
+      color: #00ffe5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>🛑 Politician Contributions</h1>
+  <p>This archive exposes U.S. political figures who support or enable digital surveillance, mass data collection, and youth data exploitation — through their votes, donors, partnerships, or lobbying support.</p>
+
+  <div class="profile">
+    <h2 class="name">🧠 Peter Thiel</h2>
+    <div class="details">
+      <ul>
+        <li>Co-founded Palantir, a surveillance tech firm used by ICE, police departments, and military intelligence.</li>
+        <li>Funded candidates pushing deregulated data markets and aggressive predictive policing.</li>
+        <li>Major donor to political action committees that oppose consumer data privacy laws.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="profile">
+    <h2 class="name">🔒 Elon Musk</h2>
+    <div class="details">
+      <ul>
+        <li>Acquired Twitter (now X) and removed moderation protections, making it a data-rich haven for manipulation.</li>
+        <li>Integrated X with surveillance-style biometric and location tracking plans.</li>
+        <li>Supports AI ventures with minimal oversight of data use and child safety protocols.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="profile">
+    <h2 class="name">📉 Donald Trump</h2>
+    <div class="details">
+      <ul>
+        <li>Promoted Palantir and ICE surveillance expansion during his presidency.</li>
+        <li>Repealed FCC broadband privacy protections that prevented ISPs from selling user data without consent.</li>
+        <li>Supported Section 702 renewals that enable mass warrantless surveillance of Americans.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="profile">
+    <h2 class="name">💰 Reid Hoffman</h2>
+    <div class="details">
+      <ul>
+        <li>LinkedIn co-founder and investor in firms supporting surveillance-advertising business models.</li>
+        <li>Funded AI lobbying to reduce regulation around personal data use.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="profile">
+    <h2 class="name">🗄️ Larry Ellison</h2>
+    <div class="details">
+      <ul>
+        <li>Chairman of Oracle, one of the largest data brokers in the world, selling data to governments and advertisers.</li>
+        <li>Partnered with Palantir and government agencies on population surveillance initiatives.</li>
+      </ul>
+    </div>
+  </div>
+
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
