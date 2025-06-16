@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Politician Contributions | Ella's Resistance</title>
-  <style>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
     body {
       background-color: #000;
       color: #f0f0f0;
