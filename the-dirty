@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Dirty | Ella's Resistance</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #f0f0f0;
+      font-family: monospace;
+      padding: 2rem;
+    }
+    h1 {
+      color: #ff4444;
+      text-shadow: 0 0 5px #ff4444;
+    }
+    h2 {
+      color: #00ffcc;
+      margin-top: 2rem;
+    }
+    .profile {
+      border-left: 2px solid #ff4444;
+      padding-left: 1rem;
+      margin-bottom: 2rem;
+    }
+    .quote {
+      font-style: italic;
+      color: #ccc;
+      margin-top: 0.5rem;
+    }
+    .source {
+      font-size: 0.85rem;
+      color: #888;
+    }
+    a {
+      color: #00ffe5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>📸 The Dirty</h1>
+  <p>Welcome to the digital receipt vault. This archive exposes public figures who promote hate, conspiracy, algorithm abuse, and digital chaos — using their own posts, quotes, and screenshots. Everything here is sourced and real.</p>
+
+  <div class="profile">
+    <h2>Donald Trump</h2>
+    <p class="quote">“When the looting starts, the shooting starts.”</p>
+    <p class="source">— Twitter post, later flagged for glorifying violence</p>
+    <p>Trump has repeatedly used social platforms to spread disinformation, incite division, and call for authoritarian responses to protest.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Elon Musk</h2>
+    <p class="quote">Boosted racist conspiracy theories about George Soros, calling him a “supervillain” who “hates humanity.”</p>
+    <p class="source">— Posts on X, May 2023</p>
+    <p>Since acquiring X, Musk reinstated banned extremists, amplified hate speech, and gutted moderation, creating a haven for digital abuse.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Peter Thiel</h2>
+    <p class="quote">Supports platforms and movements spreading far-right and anti-democracy rhetoric through algorithmic manipulation.</p>
+    <p class="source">— Multiple political media investments and public appearances</p>
+    <p>Thiel-backed platforms have promoted targeted disinformation and psychological ops under the guise of tech innovation.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Reid Hoffman</h2>
+    <p class="quote">Funded deceptive social media operations during elections — including fake Facebook pages posing as Republican groups.</p>
+    <p class="source">— NY Times, December 2018</p>
+    <p>Despite his liberal label, Hoffman has funded coordinated disinfo ops while backing AI projects with minimal ethics oversight.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Marjorie Taylor Greene</h2>
+    <p class="quote">Posted anti-Semitic QAnon conspiracies and dangerous COVID misinformation.</p>
+    <p class="source">— Facebook/Twitter, repeatedly flagged before account suspensions</p>
+    <p>Greene used social media to amplify hate, false flag theories, and anti-science campaigns directly targeting youth.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Ron DeSantis</h2>
+    <p class="quote">Signed bills to ban platform moderation while supporting far-right influencers banned for hate speech.</p>
+    <p class="source">— Florida legislation and press briefings, 2021–2023</p>
+    <p>DeSantis has positioned himself as a political protector of online hate, punishing platforms that limit extremism.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Jared Kushner</h2>
+    <p class="quote">Oversaw campaign use of Facebook dark ads and microtargeted disinfo toward Black voters in 2016.</p>
+    <p class="source">— Channel 4 undercover report, 2020</p>
+    <p>Kushner helped shape data-driven voter suppression operations while in the Trump administration.</p>
+  </div>
+
+  <div class="profile">
+    <h2>Tucker Carlson</h2>
+    <p class="quote">Spread white replacement theory and anti-immigrant panic in prime-time broadcasts.</p>
+    <p class="source">— Fox News segments and social clips, 2020–2023</p>
+    <p>Carlson's rhetoric has directly inspired online radicalization and real-world violence, according to multiple watchdog reports.</p>
+  </div>
+
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
