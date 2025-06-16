@@ -42,6 +42,16 @@
   </style>
 </head>
 <body>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="tool-kit.html">Toolkit</a>
+  <a href="law-changes.html">Law</a>
+  <a href="contributions.html">Contributions</a>
+  <a href="the-dirty.html">The Dirty</a>
+  <a href="journal.html">Journal</a>
+  <a href="info-dump.html">Info Dump</a>
+  <a href="contact.html">Contact</a>
+</nav>
   <h1>🛑 Politician Contributions</h1>
   <p>This archive exposes U.S. political figures who support or enable digital surveillance, mass data collection, and youth data exploitation — through their votes, donors, partnerships, or lobbying support.</p>
 
