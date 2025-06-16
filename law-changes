@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teen Data Protection Act | Ella's Digital Resistance</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #f0f0f0;
+      font-family: monospace;
+      padding: 2rem;
+    }
+    h1 {
+      color: #00ffcc;
+      text-shadow: 0  0 5px #00ffcc;
+    }
+    h2 {
+      color: #ff4444;
+      margin-top: 2rem;
+      border-bottom: 1px solid #444;
+      padding-bottom: 0.3rem;
+    }
+    p, li {
+      line-height: 1.6;
+    }
+    a {
+      color: #00ffe5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>📜 Teen Data Protection Act</h1>
+  <p>The Teen Data Protection Act, also known as <strong>Ella’s Digital Bill of Rights</strong>, is a youth-led legislative proposal designed to reclaim control over how data is collected, used, and exploited online. It establishes clear protections for minors under 18 and challenges the systems that profit from youth surveillance.</p>
+
+  <h2>🎯 Core Digital Rights for Teens</h2>
+  <ul>
+    <li>🚫 No targeted advertising to users under 18 — no loopholes</li>
+    <li>🛑 Opt-in data collection only — teens must give clear, informed consent</li>
+    <li>📄 Mandatory plain-language privacy notices for all platforms used by teens</li>
+    <li>🧽 Guaranteed right to delete all data at any time, without retaliation or delay</li>
+    <li>🏫 Ban on student data being shared or sold by schools and education platforms</li>
+    <li>🔍 Transparent algorithm rights — teens can request how recommendation engines profile them</li>
+    <li>🧠 Required digital literacy education about privacy, data tracking, and algorithmic manipulation</li>
+  </ul>
+
+  <h2>📄 Full Legal Draft</h2>
+  <p>The full draft will be written in formal legal format with preamble, articles, and enforcement mechanisms. <a href="#">[Coming soon]</a></p>
+
+  <h2>🖊️ Take Action</h2>
+  <ul>
+    <li><a href="#">Sign the petition to push this into state/federal legislature</a></li>
+    <li><a href="#">Download a PDF copy of the proposal</a></li>
+    <li><a href="#">Email your representative using our prewritten message</a></li>
+  </ul>
+
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
